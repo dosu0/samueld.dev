@@ -1,8 +1,8 @@
 import { BlogPosts } from "app/components/posts";
 import React from "react";
-
 // import Particles from "app/components/particles";
 import { Navbar } from "app/components/nav";
+import Typewriter from "app/components/typewriter";
 
 export default function Home() {
   return (
@@ -23,7 +23,15 @@ export default function Home() {
 
       <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
 
-      <h2 className="my-8 text-xl animate-fade-in">i make things</h2>
+      <h2 className="my-8 text-xl animate-fade-in">
+        <Typewriter
+          options={{
+            strings: ["i make things", "d1 yapper", "idk idk idk"],
+            autoStart: true,
+            loop: true,
+          }}
+        />
+      </h2>
 
       <div className="my-8 text-center animate-fade-in">
         <BlogPosts />

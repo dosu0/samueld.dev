@@ -2,7 +2,7 @@ import { Navbar } from "app/components/nav";
 import { BlogPosts } from "app/components/posts";
 
 export const metadata = {
-  title: "Blog",
+  title: "blog",
   description: "Read my blog.",
 };
 

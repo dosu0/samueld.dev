@@ -11,23 +11,15 @@ export default function About({}) {
             about
           </h1>
 
-          <p>this is where i yap about what i'm good at</p>
-
-          <ul className="list-disc pl-6">
-            <li>C</li>
-            <li>Rust</li>
-            <li>
-              Web Development...
-              <ul className="list-disc pl-6">
-                <li>React</li>
-                <li>Next.js</li>
-                <li>Svelte (kit)</li>
-              </ul>
-            </li>
-          </ul>
-
-          <p>Currently learning:</p>
-          <ul>Zig</ul>
+          <p>AHS '26</p>
+          <p>
+            yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap
+            yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap
+            yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap
+            yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap
+            yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap
+            yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap
+          </p>
         </section>
       </main>
     </>
