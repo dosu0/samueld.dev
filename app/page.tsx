@@ -26,7 +26,7 @@ export default function Home() {
       <h2 className="my-8 text-xl animate-fade-in">
         <Typewriter
           options={{
-            strings: ["i make things", "d1 yapper", "idk idk idk"],
+            strings: ["i make things", "more stuff coming soon",],
             autoStart: true,
             loop: true,
           }}

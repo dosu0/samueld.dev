@@ -11,15 +11,7 @@ export default function About({}) {
             about
           </h1>
 
-          <p>AHS '26</p>
-          <p>
-            yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap
-            yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap
-            yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap
-            yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap
-            yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap
-            yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap
-          </p>
+          <p>I'm Samuel and this is my website. Here you can find some of my projects, as well as my resume.</p>
         </section>
       </main>
     </>
