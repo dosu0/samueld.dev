@@ -6,7 +6,6 @@ import { Navbar } from "app/components/nav";
 
 export async function generateStaticParams() {
   let posts = getBlogPosts();
-
   return posts.map((post) => ({
     slug: post.slug,
   }));
